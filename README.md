@@ -1,5 +1,15 @@
-### Hi there 👋
+<h1> Tudo bem? Eu sou o Rafael 🤘🏻😝 </h1>
 
+- 🔥 Tenho estudado Dev Web, passando até o momento por **HTML,CSS,SASS,JAVASCRIPT**.
+- 🪴 Subi também um projeto antigo em **Python** e **Bash Sript**,apenas por uma questão de recordação, já que não tem sido atualizado.
+
+Página principal: [rafael-gsr.github.io](https://rafael-gsr.github.io/)
+
+<div align="center">
+  <a href="https://github.com/rafael-gsr/rafael-gsr.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-gsr&layout=compact&theme=dracula" />
+  </a>
+</div>
 <!--
 **rafael-gsr/rafael-gsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
