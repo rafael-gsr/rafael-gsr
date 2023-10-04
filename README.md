@@ -2,9 +2,10 @@
 
 - 🔥 Tenho estudado Dev Web, passando até o momento por **HTML,CSS,SASS,JAVASCRIPT**
 - 🖥️ No momento estudando **React, Node JS e Banco de Dados**.
-- 🪴 Subi também um projeto antigo em **Python** e **Bash Sript**,apenas por uma questão de recordação, já que não tem sido atualizado.
+-  Subi também um projeto antigo em **Python** e **Bash Sript**,apenas por uma questão de recordação, já que não tem sido atualizado.
 
 Página principal: [rafael-gsr.github.io](https://rafael-gsr.github.io/)
+
 Projeto mais recente : [Projetos React](https://github.com/rafael-gsr/projetos-react)
 
 <div align="center">
